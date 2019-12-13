@@ -25,7 +25,7 @@ Os deseo un feliz año 2020 !!!
 
 
 #### AlumnoFila1PC3
-
+He modificado la clase Mensaje.java para que muestre un mensje con una felicitación.
 
 #### AlumnoFila1PC4
 
